@@ -1,1 +1,1 @@
-Athene repository for training
+Athene repository for trainings
